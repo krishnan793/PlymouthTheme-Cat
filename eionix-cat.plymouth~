@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=eionix-superhero
-Description=This theme is a template to build on
-ModuleName=script
-
-[script]
-ImageDir=/lib/plymouth/themes/eionix-ironman
-ScriptFile=/lib/plymouth/themes/eionix-ironman/eionix-ironman.script

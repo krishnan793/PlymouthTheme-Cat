@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=eionix-theme
-Description=This theme is a template to build on
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/eionix-theme
-ScriptFile=/usr/share/plymouth/themes/eionix-theme/eionix-theme.script
