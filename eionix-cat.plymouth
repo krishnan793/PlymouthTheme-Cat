@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=eionix-cat
+Description=This is a Plymouth theme with a cat animation.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/eionix-cat
+ScriptFile=/lib/plymouth/themes/eionix-cat/eionix-cat.script
