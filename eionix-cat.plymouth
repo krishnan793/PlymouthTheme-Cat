@@ -4,5 +4,5 @@ Description=This is a Plymouth theme with a cat animation.
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/PlymouthTheme-Cat
-ScriptFile=/lib/plymouth/themes/PlymouthTheme-Cat/eionix-cat.script
+ImageDir=/usr/share/plymouth/themes/PlymouthTheme-Cat
+ScriptFile=/usr/share/plymouth/themes/PlymouthTheme-Cat/eionix-cat.script
