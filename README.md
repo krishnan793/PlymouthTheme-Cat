@@ -6,7 +6,7 @@ This is a Plymouth theme created for Ubuntu 16.04 (can be also used in other Lin
 
 Clone this repository.
 
-    git clone https://github.com/krishnan793/PlymouthTheme-Cat.git
+    sudo git clone https://github.com/krishnan793/PlymouthTheme-Cat.git
     
 Install the theme.
 
