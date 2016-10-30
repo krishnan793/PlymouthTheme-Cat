@@ -10,7 +10,7 @@ Clone this repository.
     
 Install the theme.
 
-    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/lib/plymouth/themes/PlymouthTheme-Cat/eionix-cat.plymouth 100
+    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/PlymouthTheme-Cat/eionix-cat.plymouth 100
 
 Select the default theme.
 
