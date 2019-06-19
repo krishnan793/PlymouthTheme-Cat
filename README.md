@@ -6,7 +6,7 @@ This is a Plymouth theme.
 
 [Video] https://www.youtube.com/watch?v=c6f478VBhtE
 
-[Blog] http://eionix.blogspot.in/2016/10/plymouth-theme-for-ubuntu.html
+[Blog] https://www.eionix.co.in/2016/10/30/plymouth-theme-for-ubuntu.html
 
 # Installation
 
