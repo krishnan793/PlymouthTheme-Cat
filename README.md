@@ -12,7 +12,7 @@ This is a Plymouth theme.
 
 Clone this repository.
 
-    sudo git clone https://github.com/krishnan793/PlymouthTheme-Cat.git /usr/share/plymouth/themes/PlymouthTheme-Cat
+    sudo git clone https://github.com/CasualGarageCoder/CuteKittyBoot.git /usr/share/plymouth/themes/PlymouthTheme-Cat
 
 After installing you can test the theme through (as root, preferably on a tty):
 
